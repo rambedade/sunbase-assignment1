@@ -18,8 +18,8 @@ Form Designer is a web-based application that allows users to dynamically create
 ## Getting Started
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/form-designer.git
-cd form-designer
+https://github.com/rambedade/sunbase-assignment1.git
+cd sunbase-assignment1
 ```
 
 ### 2. Open Locally
