@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+  }
+  
+  h4 {
+    margin: 0;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background: white;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #e0e0e0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: white;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .components {
+    width: 250px;
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  .components button {
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .form-area {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 60%;
+  }
+  
+  .form-area label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-area input, .form-area select, .form-area textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .delete {
+    background-color: #ccc;
+    border: none;
+    color: rgb(14, 14, 14);
+    cursor: pointer;
+    border-radius: 25px red;
+    size: 25px;
+    margin: 20px;
+    margin-left: 12px;
+    margin-top: 10px;
+  }
+  
+  .layout {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
